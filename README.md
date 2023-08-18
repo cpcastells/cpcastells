@@ -15,6 +15,10 @@
 
 🎲 Developed [Collectopia](https://github.com/cpcastells/collectopia_FRONT.git), a MERN (**MongoDB, Express.js, React, Node.js**) stack application where board game enthusiasts can maintain and manage their game collections. The application serves as a comprehensive CRUD system that adds, retrieves, updates, and deletes items in your game collection, making it a one-stop solution for all board game collection needs.
 
+#### Side-projects:
+- [**PackSplorer**](https://github.com/cpcastells/packsplorer-react): interactive, user-friendly application that allows to create a personalized packing checklist for your trips.
+- [**Splitify**](https://github.com/cpcastells/splitify-react): web app project for effortless management of shared expenses among friends. 
+
 <br>
 
 ## 🕹️ My Interests:
