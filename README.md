@@ -2,26 +2,43 @@
 
 ---  
 
-## 🙋‍♂️ About Me:
-- 🎲 I'm a Board Game Enthusiast turned Fullstack Developer.
-- 🚀 I'm always excited about the prospect of collaborating on Development Experiments, so feel free to reach out!
-- 📚 Life Hack: "The more you know, the less you fear. 🙅‍♂️ Embrace lifelong learning as your personal superpower. 💪"
+## 🙋‍♂️ About Me
 
-<br>
+Frontend - Fullstack Engineer with a strong focus on **React, Next.js, and TypeScript**, building **scalable SaaS products** and data-driven applications.
 
-## 🕹️ My Interests:
-- ☁️ Currently, my explorations are aimed at Next.js.
-- 🕸️ I'm actively working on React projects, but open to any tech stack!
-- ⚡ Fun Fact: In the kitchen, I switch from coding algorithms to crafting the perfect cheesecake recipe! 🧑‍🍳🍰.
-- 🎮 In my free time, you'll often find me engrossed in an intense board game!
+I enjoy turning complex requirements into **clean architectures, reusable components, and thoughtful user experiences**. I’m especially comfortable working on products with **dashboards, workflow-based systems, and rich data visualization**, where frontend structure, performance, and maintainability really matter.
 
-<br>
+I use **AI-assisted development** as a practical support in my daily work, mainly for **architecture exploration, refactoring, test generation, and debugging**, always keeping engineering judgment, code quality, and product thinking at the center.
+
+I have experience collaborating closely with backend, product, and design teams, and I naturally lean towards **ownership, mentoring, and improving frontend standards** across projects.
+
+🚀 Open to Frontend or Fullstack roles, especially in SaaS and product-driven teams.  
+📚 Personal mantra: *The more you understand a system, the more confidently you can improve it.*
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Testing:** Playwright, Jest, Vitest, React Testing Library  
+- **Backend & Infra (working knowledge):** APIs, Docker, CI/CD  
+- **Product Focus:** SaaS platforms, dashboards, complex UI states  
+- **Ways of Working:** clean architecture, modularity, scalability
+
+---
+
+### 🎮 Beyond Code
+
+Board game enthusiast with a passion for strategy, systems, and optimization.  
+Outside of tech, I enjoy experimenting in the kitchen and refining cheesecake recipes 🧑‍🍳🍰
+
+---
 
 ## 📬 Get in Touch:
 - 🔗 Connect with me on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-cpcastells-blue?style=flat-square&logo=Linkedin&logoColor=white&link=hhttps://www.linkedin.com/in/carlespueyodeveloper/)](https://www.linkedin.com/in/carlespueyodeveloper)
 - 📧 Or you can reach me at: [cpcastells@gmail.com](cpcastells@gmail.com)
 
-<br>
+---
 
 ## :hammer_and_wrench: Languages and Tools:
 
