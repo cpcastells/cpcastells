@@ -1,4 +1,4 @@
-![1](https://github.com/cpcastells/cpcastells/assets/57815929/e88f4d9a-fb6c-4cf7-b624-b9352b6b81a6)
+<img width="1200" height="300" alt="banner" src="https://github.com/user-attachments/assets/ba0f41c6-6c40-4edf-8149-cf2777c52b1c" />
 
 ---  
 
